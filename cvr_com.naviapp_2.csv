@@ -1,0 +1,135 @@
+publisher_name,campaign_id,CVR,Installs
+3dot14,August'21,0.0052,12
+3dot14,Navi_AFS,0.0406,19
+3dot14,Navi_Android_Nonincent_IN_AHM%7CDirect,0.4595,34
+3dot14,Navi_Android_Nonincent_IN_AHM_Direct,0.0013,1118
+3dot14,Navi_Android_Nonincent_IN_AHM|Direct,0.0085,1310
+3dot14,None,0.0009,10094
+3dot14,hi_3dot14,0.0816,20
+3dot14,{campaign_name},0.0048,20
+3dot14,{c},0.0,1739
+3dot14,{offer_ref_id},0.0035,169
+adbinkagency,HI_Adbinks,0.0,63
+adbinkagency,PL_Adbinks,0.0001,4994
+adcanopus,Navi,0.0167,160
+adladagency,adlad,0.0002,1647
+admatticllcus,PL_Admattic,0.0001,78
+admatticllcus,Pl_trafficvenue,0.0,9
+admatticllcus,{PL_Admattic},0.0001,50
+adsplayinternat,GI_Adsplay,0.0004,64
+adstalkmedia,661,0.0,19
+adstalkmedia,Campaign,0.0005,165
+adstalkmedia,None,0.0002,1087
+adstalkmedia,campaign,0.0001,362
+adstalkmedia,naviapp_aos_in,0.0001,36
+adstalkmedia,{Campaign},0.0061,91
+avowtech,Avow_Discover,0.0027,107
+avowtech,Avow_Discover_CPA,0.2529,486
+avowtech,Avow_Oppo,0.0533,156
+avowtech,None,0.0602,202
+click2cagency,C2C_238,0.8571,12
+click2cagency,C2C_239,0.6429,9
+click2cagency,C2C_706,0.0002,99
+click2cagency,C2C_ADS,0.0007,351
+click2cagency,C2C_Adcat,0.0002,1459
+click2cagency,C2C_BGM,0.0007,208
+click2cagency,C2C_CBE,0.0004,5016
+click2cagency,C2C_Cheerad,0.0002,1457
+click2cagency,C2C_Mobr,0.0007,487
+click2cagency,C2C_TD,0.0006,309
+click2cagency,C2C_TKB,0.0005,813
+click2cagency,C2c_Ruit,0.0011,3706
+click2cagency,MD,0.0202,127
+click2cagency,None,0.0021,159
+click2cagency,campaign,0.0003,2989
+flatmediaglobal,PL_flatads,0.3042,153
+gxmedialtd,PL_gxmedia,0.0004,1108
+lucrative,GI_Adsflourish,0.017,28
+lucrative,PL_Adsflourish,0.0025,8
+mediaboomboxage,GI_Adsflourish,0.1413,1098
+mediaboomboxage,PL_Adsflourish,0.0001,2150
+mobavenue,None,0.0012,232
+mobavenue,PL_Mobavenue,0.0005,13143
+mobfountain2,1996020,0.0001,9
+mobfountain2,1996022,0.0001,7
+mobfountain2,None,0.001,721
+mobfountain2,PL,0.001,3669
+mobfountain2,campaign,0.0003,70
+mobfountain2,o_c786f09102,0.0005,239
+mobuppagency,Approval,0.75,39
+mobuppagency,Disbursal,0.0962,1090
+mobuppagency,Navi Android IN GAID,0.0045,81
+mobuppagency,None,0.002,1445
+mobuppagency,campaign,0.0003,1985
+nativemonetize,2004148,0.0007,186
+nativemonetize,2004540,0.0001,899
+netcore,HI_Netcore,0.001,160
+netcore,Netcore,0.0003,11541
+netcore,netcore,0.0003,25620
+netcore,netcore1,0.0003,3013
+recomob,None,0.0008,586
+recomob,PL_Recomb,0.0002,424
+BBSMS,Navi_BB_SMS,0.0358,185
+Email,HI_Retargeting_WA,0.0,442
+Facebook Ads,AAA - Disbursed 5,0.198,2162
+Facebook Ads,Approvals 2,0.0841,2093
+Facebook Ads,Disbursal Lookalike – Copy,0.1814,154
+Facebook Ads,GI_Remarketing_Quotes_Sale_SuperApp,0.0325,13
+Facebook Ads,PL_AAA_Hindi_Disbursal_V2 – Copy,0.1315,905
+Facebook Ads,PL_Scrub_58L_Approval,0.0673,80
+Facebook Ads,Remarketing Restored,0.0104,19
+Influencer,GI_Nitish,0.3077,8
+My Money Mantra Campaign 2,My Money Mantra Campaign 2,0.0659,121
+MyMoneyMantra_DSA,MyMoneyMantra,0.1186,30
+Organic,None,0.0,7523
+SMS,HI_CS__PL,0.0,19
+SMS,HL_PL2HL_CrossSell,0.0,22
+SMS,PL_AND_6l_Retargeting,0.0,187
+SMS,PL_HardRejectReversal,0.0,311
+SMS,PL_PrePANdropoff,0.0,285
+SMS,PL_Softrejects_retargeting,0.0,1459
+adcattech_int-globalemedia,naviaffiliate_GM,0.0003,2460
+adcountymedia_int-MC_Saatchi_Mobile,MCSP_NaviCPI_Adcounty,0.0008,16097
+adsknife_int-MC_Saatchi_Mobile,MCSP_NAVI,0.5056,135
+affonix_int,None,0.7778,49
+bayofads_int-MC_Saatchi_Mobile,MCSP_NAVI_BayOfAds,0.0002,798
+bedigitechfc_int,None,0.0002,190
+buddyloan_int,None,0.0274,4906
+cheeringads_int-globalemedia,naviaffiliate_GM,0.0002,976
+dvxapp_int-globalemedia,naviaffiliate_GM,0.0003,2620
+econnectmobi_int-MC_Saatchi_Mobile,MCSP_NAVI,0.0048,251
+globalemedia_int-globalemedia,None,1.0,7
+googleadwords_int,AND New,0.0011,6
+googleadwords_int,OtpNPan Remarket,0.0022,58
+googleadwords_int,PL_Approval - Top 38,0.0376,8230
+googleadwords_int,PL_Approval Metro,0.0343,2526
+googleadwords_int,PL_Branding Videos_India_Disbursal,0.1342,4097
+googleadwords_int,PL_Disbursals_India_Other-Cities,0.4766,326
+googleadwords_int,PL_Disbursed - North,0.0,168
+googleadwords_int,PL_Disbursed - South,0.0479,4910
+googleadwords_int,PL_Disbursed_North_FB,0.0315,5000
+googleadwords_int,SplashnoPan Submit,0.0021,101
+hotstar_int,Ent_PerfCPI_NaviPL_310122_D,0.0026,120
+hotstar_int,Ent_PerfCPI_NaviPL_310122_V,0.0017,95
+hotstar_int,Ent_PerfCPI_Navi_GI_040122_D,0.0012,19
+hotstar_int,Ent_PerfCPI_Navi_GI_040122_V,0.0006,14
+hunartechnologies_int,None,0.0003,41
+inuxudmt_int,PL_inuxu,0.0065,150
+ksvapp_int-globalemedia,naviaffiliate_GM,0.0002,993
+lionadz_int-MC_Saatchi_Mobile,MCSP_NAVICPA_Lionadz,0.0094,255
+mfaas_int-MC_Saatchi_Mobile,Navi,0.0,17
+mobisaturn_int-MC_Saatchi_Mobile,MCSP_NAVICPA_Mobisaturn,0.0002,6
+mobvista_int,navi_in_cpa,0.001,145
+mobvista_int,navi_in_cps,0.0005,81
+munimob_int-applabsmedia,GI_Applabs,0.6667,6
+munimob_int-applabsmedia,PL_Applabs,0.5455,12
+netsetgo_int-MC_Saatchi_Mobile,MCSP_NAVICPI_Netsetgo,0.0005,7364
+onecode_int,None,0.1209,11
+quantafi_int-MC_Saatchi_Mobile,MCSP_NaviCPI_Quantafi,0.0,7
+shareit_int,None,0.0289,7898
+theadzclub_int-MC_Saatchi_Mobile,MCSP_NAVICPA_TheAdzClub,0.0,276
+theappways_int-MC_Saatchi_Mobile,MCSP_NAVICPA_Theappways,0.0064,678
+unico_int-applabsmedia,GI_Applabs,0.0006,632
+unico_int-applabsmedia,PL_Applabs,0.0007,640
+vivoglobal_int,promotion,0.1498,4062
+vivootapreload_int,Preinstall,0.0,228
